@@ -1,0 +1,660 @@
+<!DOCTYPE html><html lang="en"><head><link href="//wkstatic.bdimg.com/static/ndpcwenku/static/ndview/css/xreader.46d21510d6de71b5cf22.css" rel="stylesheet"></head><head>
+    <meta charset="utf-8">
+    <title>2020年1月浙江省生物考试说明 - 百度文库</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <link rel="shortcut icon" href="https://www.baidu.com/cache/icon/favicon.ico" type="image/x-icon">
+    <link rel="icon" sizes="any" href="https://www.baidu.com/cache/icon/favicon.svg">
+    <script>
+        window.tsFP = Date.now();
+    </script>
+    
+        
+            <style>#pageNo-1 .reader-parent{visibility: visible;}</style>
+        <style>
+            #pageNo-1 .reader-word-layer {
+                margin-top: --402px;
+            }
+            #pageNo-1 .reader-pic-layer {
+                margin-top: --40px;
+            }
+        </style>
+        
+    
+    
+</head>
+
+<body>
+    <style>
+html {
+    color: #000;
+    background: #fff;
+}
+body,
+div,
+dl,
+dt,
+dd,
+ul,
+ol,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+pre,
+code,
+form,
+fieldset,
+legend,
+input,
+textarea,
+p,
+blockquote,
+th,
+td {
+    margin: 0;
+    padding: 0;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+fieldset,
+img {
+    border: 0;
+}
+
+address,
+caption,
+cite,
+code,
+dfn,
+em,
+strong,
+th,
+var,
+b {
+    font-style: normal;
+    font-weight: normal;
+}
+
+ol,
+ul {
+    list-style: none;
+}
+
+caption,
+th {
+    text-align: left;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-size:100%;
+    font-weight:normal;
+}
+
+
+pre {
+    white-space: pre;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+abbr,
+acronym {
+    border:0;
+    font-variant:normal;
+}
+
+/*
+ * 1. Addresses CSS quotes not supported in IE6/7
+ * 2. Addresses quote property not supported in S4
+ */
+
+/* 1 */
+
+q {
+    quotes: none;
+}
+
+/* 2 */
+
+q:before,
+q:after {
+    content: '';
+    content: none;
+}
+
+/*
+ * Prevents sub and sup affecting line-height in all browsers
+ * gist.github.com/413930
+ */
+
+sub,
+sup {
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+}
+
+sup {
+    top: -0.5em;
+}
+
+sub {
+    bottom: -0.25em;
+}
+
+/*
+ * links
+ */
+
+/*
+ * Addresses outline displayed oddly in Chrome
+ */
+
+a:focus {
+    outline: thin dotted;
+}
+
+/*
+ * Improves readability when focused and also mouse hovered in all browsers
+ * people.opera.com/patrickl/experiments/keyboard/test
+ */
+
+a:hover,
+a:active {
+    outline: 0;
+}
+
+/*
+ * form
+ */
+
+/*
+ * 1. Corrects color not being inherited in IE6/7/8/9
+ * 2. Corrects text not wrapping in FF3 
+ */
+
+legend {
+    border: 0; /* 1 */
+    white-space: normal; /* 2 */
+    color:#000;
+}
+
+button,
+input,
+select,
+textarea {
+    font-family:inherit;
+    font-size:inherit;
+    font-weight:inherit;
+    vertical-align: baseline;
+    *vertical-align: middle;
+}
+
+/*
+ * Addresses FF3/4 setting line-height on 'input' using !important in the UA stylesheet
+ */
+
+button,
+input {
+    line-height: normal; /* 1 */
+}
+
+/*
+ * 1. Improves usability and consistency of cursor style between image-type 'input' and others
+ * 2. Corrects inability to style clickable 'input' types in iOS
+ * 3. Removes inner spacing in IE7 without affecting normal text inputs
+ *    Known issue: inner spacing remains in IE6
+ */
+
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+    cursor: pointer; /* 1 */
+    -webkit-appearance: button; /* 2 */
+    *overflow: visible;  /* 3 */
+}
+
+/*
+ * 1. Addresses box sizing set to content-box in IE8/9
+ * 2. Removes excess padding in IE8/9
+ * 3. Removes excess padding in IE7
+      Known issue: excess padding remains in IE6
+ */
+
+input[type="checkbox"],
+input[type="radio"] {
+    box-sizing: border-box; /* 1 */
+    padding: 0; /* 2 */
+    *height: 13px; /* 3 */
+    *width: 13px; /* 3 */
+}
+
+
+/*
+ * Removes inner padding and border in FF3+
+ * www.sitepen.com/blog/2008/05/14/the-devils-in-the-details-fixing-dojos-toolbar-buttons/
+ */
+
+button::-moz-focus-inner,
+input::-moz-focus-inner {
+    border: 0;
+    padding: 0;
+}
+
+/*
+ * FF3的一些版本hidden没有隐藏
+ */
+input[type="hidden"] {
+    display: none!important;
+}
+
+/*
+ * 1. Removes default vertical scrollbar in IE6/7/8/9
+ * 2. Improves readability and alignment in all browsers
+ * 3. 不让textarea可以resize
+ */
+
+textarea {
+    overflow: auto; /* 1 */
+    vertical-align: top; /* 2 */
+    resize: none; /* 3 */
+}
+
+/*
+ * font
+ */
+
+/* 
+ * 1.333为默认行高16px(16/12),去除sans-serif防止ie8\9下字体变形
+ */
+body {
+    min-width: 1280px;
+    height:100%;
+    font: 12px/1.333 "\5FAE\8F6F\96C5\9ED1", "Hiragino Sans GB", arial,helvetica,clean;
+}
+
+select,
+input,
+button,
+textarea {
+    font:100% arial,helvetica,clean;
+}
+
+table {
+    font-size: inherit;
+    font: 100%;
+}
+
+/*
+ * Corrects font family set oddly in IE6, S4/5, Chrome
+ * en.wikipedia.org/wiki/User:Davidgothberg/Test59
+ */
+
+pre,
+code,
+kbd,
+samp {
+    font-family: monospace, serif;
+    _font-family: 'courier new', monospace;
+    font-size: 100%;
+    line-height: 100%;
+}
+
+small {
+    font-size: 75%;
+}
+</style>
+
+    
+    <div id="app" :class="[`theme-${viewTheme}`]">
+    <header-wrapper></header-wrapper>
+    <div class="header-wrapper no-full-screen" v-if="!vueMounted">
+    
+
+
+    <div class="search-box-wrapper  ">
+    <div class="search-box-inner-wrapper">
+        <div class="search-logo-wrap">
+            <a href="/?fr=logo">
+                <span class="wk-logo-icon"></span>
+            </a>
+        </div>
+        <div class="search-tab-wrap">
+            <div class="search-tab-content">
+                <div class="search-tab-item">首页</div>
+                <div class="search-tab-item">文档</div>
+                <div class="search-tab-item">视频</div>
+                <div class="search-tab-item">音频</div>
+                <div class="search-tab-item">文集</div>
+                <div class="search-tab-item">店铺</div>
+            </div>
+        </div>
+        <div class="search-input-wrap">
+            <span class="search-input ">
+                <input id="kw" maxlength="256" tabindex="1" autocomplete="off" data-keyword="" placeholder="">
+            </span>
+            <div class="search-submit-btn ">搜索文档</div>
+        </div>
+    </div>
+</div>
+</div>
+
+    <div class="content-wrapper">
+        <div class="left-wrapper zoom-scale">
+            <div class="no-full-screen" v-if="!vueMounted">
+    <div class="doc-info-wrapper">
+        <div class="doc-info-main">
+            <div class="doc-info-left">
+                <div class="doc-tag-wrap">
+    
+        <div class="tag">高考 </div>
+    
+        <div class="tag">高中教育 </div>
+    
+</div>
+                <div class="doc-title-wrap">
+                    <div class="doc-type-icon pdf"></div>
+                    <h3 class="doc-title">2020年1月浙江省生物考试说明</h3>
+                </div>
+                <div class="doc-summary-wrap">
+    
+        <span class="doc-score">
+            4.5分
+            （超过95%的文档）
+        </span>
+    
+    <span class="divider"></span>
+    <span>2598阅读</span>
+    <span class="divider"></span>
+    <span>97下载</span>
+    <span class="divider"></span>
+    <span>2019-09-30上传</span>
+    <span class="divider"></span>
+    <span>14页</span>
+</div>
+
+                <div class="doc-btns-wrap">
+    <div class="small-btn collect-btn">
+        <i class="collect-icon not-collect"></i>
+        <span>收藏</span>
+    </div>
+    <div id="doc-info-share-btn" class="small-btn share-btn">
+        <i class="share-icon"></i>
+        <span>分享</span>
+    </div>
+    <div class="small-btn cloud-storage-btn">
+        <i class="cloud-storage-icon"></i>
+        <span>转存</span>
+    </div>
+    <div class="small-btn report-btn">
+        <i class="report-icon"></i>
+        <span>举报</span>
+    </div>
+    <!-- 由于版权页未上线，故先注释，等待PM @张玉芳通知 -->
+    <div class="small-btn copyright-btn">
+        <i class="copyright-icon"></i>
+        <span>认领</span>
+    </div>
+    <div class="small-btn app-btn">
+        <i class="app-icon"></i>
+        <span>APP</span>
+    </div>
+    <div class="middle-btn client-btn">
+        <i class="client-icon"></i>
+        <span>客户端打开</span>
+    </div>
+</div>
+            </div>
+        </div>
+    </div>
+</div>
+
+            <doc-head-info></doc-head-info>
+            <div class="reader-wrap">
+                <div>
+                    
+                        <reader-topbar @gotopage="gotoPage"></reader-topbar>
+                    
+                    
+    <div id="reader-container"
+        ref="container"
+        :style="{height: readerContainerH}"
+    >   
+        
+            <div class="reader-page ssr"
+                id="pageNo-1"
+                data-page-no="1"
+                data-render="1"
+                :data-mate-width="pageWHArr[0].w"
+                :data-mate-height="pageWHArr[0].h"
+                :data-scale="pageWHArr[0].s"
+                :style="{height: `${pageWHArr[0].ph}px`}"
+                style="opacity: 1!important;"
+            >
+                
+                    
+            <div class="reader-pic-layer" style="z-index:1">
+                <div class="ie-fix"><div class="reader-pic-item" style="background-image: url(https://wkbjcloudbos.bdimg.com/v1/docconvert730//wk/d53dd930398716890c51f6de3312ead3/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Wed%2C%2010%20Feb%202021%2010%3A23%3A10%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2020-12-27T02%3A23%3A10Z%2F3600%2Fhost%2F5c1fb87c0e0bcba4b0a3201b832683bc2791bb049a084713ab834f75dd723bc1&x-bce-range=0-233061&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYwOTAzOTM5MCwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.VCjBn2lgtJzxTsPd8oPs2E1o9lyJRHHfRaQHD2dktUg%3D.1609039390);background-position: 0px 0px;width: 627px;height: 719px;z-index: 0;left: 159.00719999999995px;top: 182.33839999999998px;opacity: 1;transform: scale(1.5072, 1.5071999999999999);;position: absolute;overflow: hidden;"></div></div></div>
+                
+            </div>
+        
+        <div class="reader-page"
+            v-for="(v, i) in pageWHArr"
+            :key="i"
+            :class="{'reader-page-hidden': curLastPage < v.i}"
+            :id="`pageNo-${v.i}`"
+            :data-page-no="v.i"
+            :data-mate-width="v.w"
+            :data-mate-height="v.h"
+            :data-scale="v.s"
+            :style="{height: `${v.ph}px`}"
+            v-if="!(+v.i === 1 && ssr)"
+        >
+            <page-loading ></page-loading>
+        </div>
+    </div>
+
+
+                </div>
+                
+                    <fold-page></fold-page>
+                
+                <lazy-render tip="" :time="1000">
+                    <copyright></copyright>
+                </lazy-render>
+            </div>
+
+            <div class="no-full-screen">
+                <tool-bar></tool-bar>
+                
+                    <ad-bottom></ad-bottom>
+                
+                <lazy-render tip="" :time="1000">
+                    
+                        <relative-recommend></relative-recommend>
+                    
+                    <comment></comment>
+                </lazy-render>
+            </div>
+        </div>
+
+        <div class="right-wrapper no-full-screen" id="right-wrapper-id">
+            <div class="author-info" v-show="!vueMounted">
+    
+    
+        
+
+
+
+<div class="author-info-wrapper">
+    <div class="title-box">
+        <p class="title">关于作者</p>
+        <div class="line"></div>
+    </div>
+    <div class="user-info">
+        
+        
+            
+        
+        
+        <div class="avatar" style="background-image: url(https://himg.bdimg.com/sys/portraitn/item/wenku.1.4e77635b.qQfRDw-djk1Z9pPxFlNSuA.jpg);">
+            <div class="v-tag v-tag-UGC"></div>
+        </div>
+        <div class="info">
+            <div class="nick-box">
+                <p class="nickname">
+                    中小学电脑杂志
+                </p>
+                <p class="tag tag-maxw">
+                    文库新人
+                </p>
+            </div>
+            
+        </div>
+    </div>
+    <div class="property">
+        <div class="item">
+            <p class="title">文档</p>
+            <div class="author-info-number">9</div>
+        </div>
+        <div class="item">
+            <p class="title">粉丝</p>
+            <div class="author-info-number">0</div>
+        </div>
+        <div class="item">
+            <p class="title">等级</p>
+            <div class="author-info-number">Lv1</div>
+        </div>
+    </div>
+    
+        <div class="card-action-box">
+            
+                <div class="common unfollow">关注</div>
+            
+            <div class="common user-info">
+                个人主页
+            </div>
+        </div>
+    
+</div>
+    
+</div>
+                
+            <author-info></author-info>
+            
+                <right-channel></right-channel>
+                <operation></operation>
+                <relative-search class="sider-edge" :fix="false"></relative-search>
+                <relative-doc class="sider-edge" :fix="false"></relative-doc>
+                <lazy-render tip="" :time="1000">
+                    <relative-course class="sider-edge" :fix="false"></relative-course>
+                </lazy-render>
+                <ad-right class="sider-edge"></ad-right>
+            
+            <lazy-render tip="" :time="1000">
+                <recommend-fix></recommend-fix>
+            </lazy-render>
+        </div>
+        
+        <div class="no-full-screen">
+            <collection-guide></collection-guide>
+        </div>
+    </div>
+    <lazy-render tip="" :time="1000">
+        <div class="footer-wrapper no-full-screen" id="footer-wrapper-id">
+            <propagation></propagation>
+        </div>
+        
+            <sidebar></sidebar>
+        
+        <vip-member-pop></vip-member-pop>
+        <reader-plugin :root-selector="'#reader-container'"></reader-plugin>
+        <wkfooter></wkfooter>
+        <vip-no-ad-dialog></vip-no-ad-dialog>
+    </lazy-render>
+</div>
+
+
+
+    <script>window.tsFMP = +(new Date());</script>
+
+    <script>
+        var pageData = {"docInfo2019":{"doc_info":{"show_doc_id":"4830a476534de518964bcf84b9d528ea80c72f2e","title":"2020年1月浙江省生物考试说明","view_count":2598,"download_count":97,"score":4.5,"score_percentage":"95","show_create_time":"20190930 10:26:06","create_time":"1569810366","update_time":"1569810366","page":"14","size":"1429091","summary":"浙江省选考考试说明","flag":"28","type":"7","ishide":"0","zan":0,"cover_url":"https://wkimg.bdimg.com/img/fb470b2cf7ec4afe04a1dfe1?new=1&w=500&p=1","show_store_id":"fb470b2cf7ec4afe04a1dfe1","is_creater":0,"download_token":"4f81b8c022c0ded213f39f03bc22b40a","is_vip_free_doc":true,"main_status":"2","forbidden_comment":0,"modifyLock":0,"is_legion_doc":0,"editorDocId":"","professional_doc":1,"doc_type":3,"is_inroom":0,"typeName":"pdf","view_count_show":"2598","download_count_show":"97","create_time_show":"2019-09-30"},"cover_list":[],"tags":[{"tag":"高考","url":"https://wenku.baidu.com/search?fr=view_tag2019_1&word=%B8%DF%BF%BC","type":1},{"tag":"高中教育","url":"https://wenku.baidu.com/search?fr=view_tag2019_1&word=%B8%DF%D6%D0%BD%CC%D3%FD","type":1}],"search_words":[],"hot_words":[{"word":"高中教育","url":"https://wenku.baidu.com/search?fr=view_tag2019_1&word=%B8%DF%D6%D0%BD%CC%D3%FD"},{"word":"高考","url":"https://wenku.baidu.com/search?fr=view_tag2019_1&word=%B8%DF%BF%BC"}],"creator_info":{"uid_str":"c260e7043b3567ec102d8a87","uname":"中小学电脑杂志","utype":"UGC","follower_count":"0","have_followed":"0","level":"1","scienceOrg":0,"scienceRepeatSign":0,"tname":"中小学电脑杂志","verify_name":"","doc_count":9,"avadar":"https://himg.bdimg.com/sys/portraitn/item/wenku.1.4e77635b.qQfRDw-djk1Z9pPxFlNSuA.jpg","title":"文库新人","show_auth":0,"phone":"","level_info":{"content_score":"180","business_score":"0","credit_score":"827","alive_score":"300","profession_score":"200","total_score":"248","is_keep":"0","level":"1","create_time":"1607593919","update_time":"1607593919","level_name":"文库新人","levelShow":"d","levelText":"银牌店铺"},"shop_follow":{"is_own_shop":0,"follow_count":0,"is_followed":0},"shop_info":{"shop_level":"1","shop_level_name":"银牌店铺","shop_name_show":"undefined的店"},"typeTitle":"个人主页"},"can_read":1,"price_info":{"doc_price":2,"doc_ticket":1,"is_payment_doc":0,"shopVoucherInfo":{}},"vip_info":[],"like_info":{"is_liked":0},"attestation_doc_result":0,"is_copyright":0,"is_exclusive":0,"copyright_flag":0,"background_info":{"background_type":"0","background_value":"1"},"doc_view_rec_test_type":0},"readerInfo2019":{"tpl_key":"html_view","md5sum":"&md5sum=d53dd930398716890c51f6de3312ead3&sign=048bd57079","pageInfo":{"pageHeight":"1357.5","pageWidth":"946.5","pageWH":["946.5","1357.5"],"other":{"1":["940.5","1078.5"],"2":["943.5","1360.5"],"3":["945","1354.5"],"4":["943.5","1074"],"5":["942","1305"],"6":["942","1317"],"7":["943.5","1264.5"],"8":["948","1320"],"9":["946.5","1078.5"],"10":["946.5","1300.5"],"11":["948","1332"],"12":["945","1362"]},"version":6},"htmlBcs":true,"htmlUrls":"{\"ttf\":[],\"json\":[{\"pageIndex\":1,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert730\\/\\/wk\\/d53dd930398716890c51f6de3312ead3\\/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Wed%2C%2010%20Feb%202021%2010%3A23%3A10%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2020-12-27T02%3A23%3A10Z%2F3600%2Fhost%2F2f9f41288317a1d111bfad8c74e4f446fa1c164d21d3d812aea8ecb80305ddc2&x-bce-range=0-526&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYwOTAzOTM5MCwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.HpBPaAbZvOHPTK4fCvFnE%2FThBleZw9w2uM3fv0IlIyg%3D.1609039390\"},{\"pageIndex\":2,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert730\\/\\/wk\\/d53dd930398716890c51f6de3312ead3\\/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Wed%2C%2010%20Feb%202021%2010%3A23%3A10%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2020-12-27T02%3A23%3A10Z%2F3600%2Fhost%2F2f9f41288317a1d111bfad8c74e4f446fa1c164d21d3d812aea8ecb80305ddc2&x-bce-range=527-1053&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYwOTAzOTM5MCwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.qGmwW0IlSTsCfdNwgcxB%2Fj8uV3tvo2IhCgtDPfR17wY%3D.1609039390\"},{\"pageIndex\":3,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert730\\/\\/wk\\/d53dd930398716890c51f6de3312ead3\\/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Wed%2C%2010%20Feb%202021%2010%3A23%3A10%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2020-12-27T02%3A23%3A10Z%2F3600%2Fhost%2F2f9f41288317a1d111bfad8c74e4f446fa1c164d21d3d812aea8ecb80305ddc2&x-bce-range=1054-1570&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYwOTAzOTM5MCwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.3d5wHu65jD7997oO4Qhv1sGXWY6pLyqr7PNk0lZAlmM%3D.1609039390\"},{\"pageIndex\":4,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert730\\/\\/wk\\/d53dd930398716890c51f6de3312ead3\\/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Wed%2C%2010%20Feb%202021%2010%3A23%3A10%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2020-12-27T02%3A23%3A10Z%2F3600%2Fhost%2F2f9f41288317a1d111bfad8c74e4f446fa1c164d21d3d812aea8ecb80305ddc2&x-bce-range=1571-2089&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYwOTAzOTM5MCwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.fYo0mGqKMf%2FVfv5Pb2u1RsjLcO0ch%2FmzFWSgJGoMeY0%3D.1609039390\"},{\"pageIndex\":5,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert730\\/\\/wk\\/d53dd930398716890c51f6de3312ead3\\/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Wed%2C%2010%20Feb%202021%2010%3A23%3A10%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2020-12-27T02%3A23%3A10Z%2F3600%2Fhost%2F2f9f41288317a1d111bfad8c74e4f446fa1c164d21d3d812aea8ecb80305ddc2&x-bce-range=2090-2598&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYwOTAzOTM5MCwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.Tutb0BcXjJEV5bKbndPVGMOu0XqXjQIRTLkTGwh6ra8%3D.1609039390\"},{\"pageIndex\":6,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert730\\/\\/wk\\/d53dd930398716890c51f6de3312ead3\\/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Wed%2C%2010%20Feb%202021%2010%3A23%3A10%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2020-12-27T02%3A23%3A10Z%2F3600%2Fhost%2F2f9f41288317a1d111bfad8c74e4f446fa1c164d21d3d812aea8ecb80305ddc2&x-bce-range=2599-3107&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYwOTAzOTM5MCwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.L%2BzptuT2UWCoKFebaipS2JAtHgtUq%2B3LzBeLfiAqUvc%3D.1609039390\"},{\"pageIndex\":7,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert730\\/\\/wk\\/d53dd930398716890c51f6de3312ead3\\/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Wed%2C%2010%20Feb%202021%2010%3A23%3A10%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2020-12-27T02%3A23%3A10Z%2F3600%2Fhost%2F2f9f41288317a1d111bfad8c74e4f446fa1c164d21d3d812aea8ecb80305ddc2&x-bce-range=3108-3634&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYwOTAzOTM5MCwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.tCUXcTJmhrX%2BHOn6pTKC8V5iD9F2MmA36cD9XhE1vm8%3D.1609039390\"},{\"pageIndex\":8,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert730\\/\\/wk\\/d53dd930398716890c51f6de3312ead3\\/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Wed%2C%2010%20Feb%202021%2010%3A23%3A10%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2020-12-27T02%3A23%3A10Z%2F3600%2Fhost%2F2f9f41288317a1d111bfad8c74e4f446fa1c164d21d3d812aea8ecb80305ddc2&x-bce-range=3635-4143&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYwOTAzOTM5MCwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.F4BnY4yPSaHvzPOg7tmqQ2UuR%2BMEdzlNsLXn7wyiY1Q%3D.1609039390\"},{\"pageIndex\":9,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert730\\/\\/wk\\/d53dd930398716890c51f6de3312ead3\\/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Wed%2C%2010%20Feb%202021%2010%3A23%3A10%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2020-12-27T02%3A23%3A10Z%2F3600%2Fhost%2F2f9f41288317a1d111bfad8c74e4f446fa1c164d21d3d812aea8ecb80305ddc2&x-bce-range=4144-4670&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYwOTAzOTM5MCwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.J9NtMmdr50HBnpIODqJoYtrtSLIob8FT0LqsaC0GqBs%3D.1609039390\"},{\"pageIndex\":10,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert730\\/\\/wk\\/d53dd930398716890c51f6de3312ead3\\/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Wed%2C%2010%20Feb%202021%2010%3A23%3A10%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2020-12-27T02%3A23%3A10Z%2F3600%2Fhost%2F2f9f41288317a1d111bfad8c74e4f446fa1c164d21d3d812aea8ecb80305ddc2&x-bce-range=4671-5199&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYwOTAzOTM5MCwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.MPC%2B3gHC8%2FP5w9qL9pwEJPcVZiBTMz7ZUNtL4n2aAOY%3D.1609039390\"},{\"pageIndex\":11,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert730\\/\\/wk\\/d53dd930398716890c51f6de3312ead3\\/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Wed%2C%2010%20Feb%202021%2010%3A23%3A10%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2020-12-27T02%3A23%3A10Z%2F3600%2Fhost%2F2f9f41288317a1d111bfad8c74e4f446fa1c164d21d3d812aea8ecb80305ddc2&x-bce-range=5200-5710&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYwOTAzOTM5MCwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.LtIV2wN4Z5ucI%2BUOuGYS8hmCLeL%2BFDgapUQJ1zaV5Oc%3D.1609039390\"},{\"pageIndex\":12,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert730\\/\\/wk\\/d53dd930398716890c51f6de3312ead3\\/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Wed%2C%2010%20Feb%202021%2010%3A23%3A10%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2020-12-27T02%3A23%3A10Z%2F3600%2Fhost%2F2f9f41288317a1d111bfad8c74e4f446fa1c164d21d3d812aea8ecb80305ddc2&x-bce-range=5711-6221&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYwOTAzOTM5MCwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.fC00GxK8MjDxxaZLuBORSy6rDGFlFiVVNi6cqHolh9s%3D.1609039390\"},{\"pageIndex\":13,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert730\\/\\/wk\\/d53dd930398716890c51f6de3312ead3\\/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Wed%2C%2010%20Feb%202021%2010%3A23%3A10%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2020-12-27T02%3A23%3A10Z%2F3600%2Fhost%2F2f9f41288317a1d111bfad8c74e4f446fa1c164d21d3d812aea8ecb80305ddc2&x-bce-range=6222-6750&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYwOTAzOTM5MCwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.aHm8AQOKMvOEAZua13xp1ip3DuUQzmkRXzY5sHBsnlE%3D.1609039390\"},{\"pageIndex\":14,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert730\\/\\/wk\\/d53dd930398716890c51f6de3312ead3\\/0.json?responseCacheControl=max-age%3D3888000&responseExpires=Wed%2C%2010%20Feb%202021%2010%3A23%3A10%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2020-12-27T02%3A23%3A10Z%2F3600%2Fhost%2F2f9f41288317a1d111bfad8c74e4f446fa1c164d21d3d812aea8ecb80305ddc2&x-bce-range=6751-&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYwOTAzOTM5MCwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.5MY7VyB7xstZUkY6Gu0b1ukyJxRtLfF7otnWBZoA6MM%3D.1609039390\"}],\"png\":[{\"pageIndex\":1,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert730\\/\\/wk\\/d53dd930398716890c51f6de3312ead3\\/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Wed%2C%2010%20Feb%202021%2010%3A23%3A10%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2020-12-27T02%3A23%3A10Z%2F3600%2Fhost%2F5c1fb87c0e0bcba4b0a3201b832683bc2791bb049a084713ab834f75dd723bc1&x-bce-range=0-233061&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYwOTAzOTM5MCwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.VCjBn2lgtJzxTsPd8oPs2E1o9lyJRHHfRaQHD2dktUg%3D.1609039390\"},{\"pageIndex\":2,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert730\\/\\/wk\\/d53dd930398716890c51f6de3312ead3\\/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Wed%2C%2010%20Feb%202021%2010%3A23%3A10%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2020-12-27T02%3A23%3A10Z%2F3600%2Fhost%2F5c1fb87c0e0bcba4b0a3201b832683bc2791bb049a084713ab834f75dd723bc1&x-bce-range=233062-482440&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYwOTAzOTM5MCwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.WaowVWZdcblajY9Y05kwiKhc%2FUjLNNFZrWE0nyoq6AI%3D.1609039390\"},{\"pageIndex\":3,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert730\\/\\/wk\\/d53dd930398716890c51f6de3312ead3\\/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Wed%2C%2010%20Feb%202021%2010%3A23%3A10%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2020-12-27T02%3A23%3A10Z%2F3600%2Fhost%2F5c1fb87c0e0bcba4b0a3201b832683bc2791bb049a084713ab834f75dd723bc1&x-bce-range=482441-630177&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYwOTAzOTM5MCwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.qJYfReTmtFo4KsAc2jgJa35VyxdhuYAbN5xpws8BMy0%3D.1609039390\"},{\"pageIndex\":4,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert730\\/\\/wk\\/d53dd930398716890c51f6de3312ead3\\/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Wed%2C%2010%20Feb%202021%2010%3A23%3A10%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2020-12-27T02%3A23%3A10Z%2F3600%2Fhost%2F5c1fb87c0e0bcba4b0a3201b832683bc2791bb049a084713ab834f75dd723bc1&x-bce-range=630178-755870&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYwOTAzOTM5MCwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.QT9zJ0SbW6AJ5yFBFCUGGCFnqkMQa1Z5mIqTG25XR%2F8%3D.1609039390\"},{\"pageIndex\":5,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert730\\/\\/wk\\/d53dd930398716890c51f6de3312ead3\\/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Wed%2C%2010%20Feb%202021%2010%3A23%3A10%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2020-12-27T02%3A23%3A10Z%2F3600%2Fhost%2F5c1fb87c0e0bcba4b0a3201b832683bc2791bb049a084713ab834f75dd723bc1&x-bce-range=755871-901169&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYwOTAzOTM5MCwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.uZDZVjKoGXm4UrSNhBlYNHpQ1x50nWacmq4tOL6MmSc%3D.1609039390\"},{\"pageIndex\":6,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert730\\/\\/wk\\/d53dd930398716890c51f6de3312ead3\\/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Wed%2C%2010%20Feb%202021%2010%3A23%3A10%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2020-12-27T02%3A23%3A10Z%2F3600%2Fhost%2F5c1fb87c0e0bcba4b0a3201b832683bc2791bb049a084713ab834f75dd723bc1&x-bce-range=901170-1044440&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYwOTAzOTM5MCwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.kExtjlZK%2Bp%2B6bErB5qN3Mdu9QUEV72IYKudoRINqS3A%3D.1609039390\"},{\"pageIndex\":7,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert730\\/\\/wk\\/d53dd930398716890c51f6de3312ead3\\/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Wed%2C%2010%20Feb%202021%2010%3A23%3A10%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2020-12-27T02%3A23%3A10Z%2F3600%2Fhost%2F5c1fb87c0e0bcba4b0a3201b832683bc2791bb049a084713ab834f75dd723bc1&x-bce-range=1044441-1190078&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYwOTAzOTM5MCwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.Wut%2BQb5VpuDg3qV0%2F3JkkJyQJ%2FmCu8jiO%2BFw%2BYskKm8%3D.1609039390\"},{\"pageIndex\":8,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert730\\/\\/wk\\/d53dd930398716890c51f6de3312ead3\\/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Wed%2C%2010%20Feb%202021%2010%3A23%3A10%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2020-12-27T02%3A23%3A10Z%2F3600%2Fhost%2F5c1fb87c0e0bcba4b0a3201b832683bc2791bb049a084713ab834f75dd723bc1&x-bce-range=1190079-1340834&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYwOTAzOTM5MCwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.9LHp6rZxO8yZKTQNW2ASZk6cZhsh%2BlNgu5tASxtLRRo%3D.1609039390\"},{\"pageIndex\":9,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert730\\/\\/wk\\/d53dd930398716890c51f6de3312ead3\\/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Wed%2C%2010%20Feb%202021%2010%3A23%3A10%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2020-12-27T02%3A23%3A10Z%2F3600%2Fhost%2F5c1fb87c0e0bcba4b0a3201b832683bc2791bb049a084713ab834f75dd723bc1&x-bce-range=1340835-1460966&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYwOTAzOTM5MCwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.wBI8d0TY%2B4yPxP3Z79QJopF%2F%2BHoXrIz4F6V1iJnkplw%3D.1609039390\"},{\"pageIndex\":10,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert730\\/\\/wk\\/d53dd930398716890c51f6de3312ead3\\/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Wed%2C%2010%20Feb%202021%2010%3A23%3A10%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2020-12-27T02%3A23%3A10Z%2F3600%2Fhost%2F5c1fb87c0e0bcba4b0a3201b832683bc2791bb049a084713ab834f75dd723bc1&x-bce-range=1460967-1621494&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYwOTAzOTM5MCwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.zJjcB%2B%2BCRx4YiuZC8mQjKmj937EpbmmhswbO2dNU%2Bhs%3D.1609039390\"},{\"pageIndex\":11,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert730\\/\\/wk\\/d53dd930398716890c51f6de3312ead3\\/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Wed%2C%2010%20Feb%202021%2010%3A23%3A10%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2020-12-27T02%3A23%3A10Z%2F3600%2Fhost%2F5c1fb87c0e0bcba4b0a3201b832683bc2791bb049a084713ab834f75dd723bc1&x-bce-range=1621495-1881993&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYwOTAzOTM5MCwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.jkc8aEPJiz5Q140qT3jtdCAQkCidAcBPGmi9boLNrmI%3D.1609039390\"},{\"pageIndex\":12,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert730\\/\\/wk\\/d53dd930398716890c51f6de3312ead3\\/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Wed%2C%2010%20Feb%202021%2010%3A23%3A10%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2020-12-27T02%3A23%3A10Z%2F3600%2Fhost%2F5c1fb87c0e0bcba4b0a3201b832683bc2791bb049a084713ab834f75dd723bc1&x-bce-range=1881994-2135942&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYwOTAzOTM5MCwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.DW0RgLNEY2OrSJ%2BURG%2Bw7jU%2BvZEfmKQuHaat4SHyzdo%3D.1609039390\"},{\"pageIndex\":13,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert730\\/\\/wk\\/d53dd930398716890c51f6de3312ead3\\/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Wed%2C%2010%20Feb%202021%2010%3A23%3A10%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2020-12-27T02%3A23%3A10Z%2F3600%2Fhost%2F5c1fb87c0e0bcba4b0a3201b832683bc2791bb049a084713ab834f75dd723bc1&x-bce-range=2135943-2472286&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYwOTAzOTM5MCwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.jmKyWjIwBvYR7%2Bx9XFEYjwhqcBIVdZ7pKEXxrrhNrVs%3D.1609039390\"},{\"pageIndex\":14,\"pageLoadUrl\":\"https:\\/\\/wkbjcloudbos.bdimg.com\\/v1\\/docconvert730\\/\\/wk\\/d53dd930398716890c51f6de3312ead3\\/0.png?responseCacheControl=max-age%3D3888000&responseExpires=Wed%2C%2010%20Feb%202021%2010%3A23%3A10%20%2B0800&authorization=bce-auth-v1%2Ffa1126e91489401fa7cc85045ce7179e%2F2020-12-27T02%3A23%3A10Z%2F3600%2Fhost%2F5c1fb87c0e0bcba4b0a3201b832683bc2791bb049a084713ab834f75dd723bc1&x-bce-range=2472287-&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTYwOTAzOTM5MCwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiLCJ4LWJjZS1yYW5nZSJdfQ%3D%3D.onwu%2FIkAPJb89liiNkTZN70mGRpF72LLLY%2FhBHafVeg%3D.1609039390\"}]}","free_page":"14","show_page":"14","page":"14","editor_info":[],"rsign":""},"mixVipAndUserInfo":{"error_no":"2","userInfo":{"isLogin":false,"uip":"10.12.1.85","uipNum":"1426131978","isHadSecuremobil":0,"bjhVtype":0,"bjhVintro":""}},"vipInfo":{},"myShopInfo":null,"wkAdBlockStatus":{"errstr":"success","block_status":false},"antiClass":"wkwm176a23e9580","hxXapgeDate":{"form_data":{"knowAd":100,"ad":100,"zyStr":5,"searchNewStyleStr":0,"viewFcReqStr":100,"searchFcReqStr":100,"newHxReqStr":100,"viewToSearchReqStr":100,"vipNoAd":{"vipNoAd":{"time":0},"vipNoAdDuiZhao":{"flow":"0/1/2/3/4/5/6/7/8/9/10","time":1440}},"zhishiReqStr":100,"zhishiSearchReqStr":100,"zhishiView":{"oldView":{"flow":"1/2/3/4/5/6/7/8/9/10"}},"searchAdTime":{"together":{"flow":"1/15"},"adAfter":{"flow":"85/100"}},"searchAdSwitch":1,"searchTopBottomAd":{"top":{"flow":"1/2/3/4/5/6/7"},"bottom":{"flow":"8/9/10"}},"guid_to_university_na":{"isopen":false}}},"controlFeature":{"pcGrayTheme":false},"saleActivityXpage":{"activity_name":"优选文档限时VIP8折","activity_subtitle":"优惠还剩","url":"https://wenku.baidu.com/ndcashier/browse/jiaoyuvipcashier?cashier_code=Viewvip8qipao","start_time":1587398400000,"end_time":1587571200000,"activity_switch":false},"viewControl":{"controll_type":2,"controll_reason":"","doc_flag":28,"main_status":"2"},"token":"1609035790_c56df32d2157300d715ec3052aa6f66a","wkSmallflow":{"visible1796":true,"wkWeb2024":0},"skinViewStrategy":{"topbar_pic_url":"https://edu-tob.bdimg.com/v1/pc/%E5%8E%8B%E9%A1%B6banner-%E5%B0%8F%E5%9B%BE-1607612745583.jpg","topbar_big_pic_url":"https://edu-tob.bdimg.com/v1/pc/%E5%8E%8B%E9%A1%B6banner-%E5%A4%A7%E5%9B%BE-1607612739525.jpg","topbar_jump_url":"https://wenku.baidu.com/ndbusiness/browse/wkcoincashier?cashier_code=ydyd","leftbar_pic1_url":"//edu-wenku.bdimg.com/v1/images/侧边栏头-1576725822251.png","leftbar_pic2_url":"//edu-wenku.bdimg.com/v1/images/%E4%BE%A7%E8%BE%B9%E6%A0%8F%E4%B8%AD-1576725820663.png","leftbar_pic3_url":"//edu-wenku.bdimg.com/v1/images/zsj-leftbar-close.png","leftbar_jump_url":"https://wenku.baidu.com/ndcashier/browse/jiaoyuvipcashier?cashier_code=ChangeFromViewxuanfu","toppos_is_open":true,"toppos_pic_url":"https://edu-tob.bdimg.com/v1/pc/PC%E9%98%85%E8%AF%BB%E9%A1%B5%E4%B8%8B%E6%BB%91%E5%90%B8%E9%A1%B6408-72-1608686970621.png","toppos_jump_url":"https://wenku.baidu.com/ndcashier/browse/jiaoyuvipcashier?cashier_code=ChangeFromPCviewtop&choose_goods_id=312","topbar_is_open":false,"leftbar_is_open":false,"key":"__wk_view_topbar_20201127"},"ssr":1,"giftInfo":{"giftSwitch":true,"giftIcon":"https://edu-wenku.bdimg.com/v1/pc/%E6%96%87%E9%9B%86%E4%B9%B0%E8%B5%A0%E9%9D%99%E6%80%81%E5%9B%BE%E6%A0%87/qqmusic.png","priceLimit":2990,"giftCount":{"target":"price","rules":[{"min":"29.9","max":"54.9","value":1},{"min":"54.9","max":"Infinity","value":2}]},"pcWenjiView":{"title":"送{{giftCount}}个月QQ音乐会员"},"pcWenjiPack":{"title":"买就送{{giftCount}}个月QQ音乐会员！","icon":"https://edu-wenku.bdimg.com/v1/pc/%E6%96%87%E9%9B%86%E4%B9%B0%E8%B5%A0%E9%9D%99%E6%80%81%E5%9B%BE%E6%A0%87/qqmusic.png","recommandTip":"赠会员"},"wapWenjiPack":{"title":"买就送{{giftCount}}个月QQ音乐会员！","icon":"https://edu-wenku.bdimg.com/v1/pc/%E6%96%87%E9%9B%86%E4%B9%B0%E8%B5%A0%E9%9D%99%E6%80%81%E5%9B%BE%E6%A0%87/qqmusic-1595224358151.png","recommandTip":"赠会员"},"activityPageCopy":{"wenjiListCopy":"送%s个月QQ音乐会员"},"cashier":[{"actName":"1856_packdoc_qqmusic","icon":"https://edu-wenku.bdimg.com/v1/wap/qq%E9%9F%B3%E4%B9%90-1594957488813.png","title":"送%s个月QQ音乐会员"}],"sucPcPage":[{"actName":"1856_packdoc_qqmusic","icon":"https://edu-wenku.bdimg.com/v1/wap/qq%E9%9F%B3%E4%B9%90-1594957488813.png","title":"恭喜您获得了QQ音乐会员月卡%s张","desc":"兑换码及兑换方式同样会以短信及文库站内信形式发送给您","linkText":"去查看","link":"https://wenku.baidu.com/ndwelfare/browse/cornucopia?source=63"}],"sucWapPage":[{"actName":"1856_packdoc_qqmusic","icon":"https://edu-wenku.bdimg.com/v1/wap/qq%E9%9F%B3%E4%B9%90-1594957488813.png","title":"恭喜您获得了QQ音乐会员月卡%s张","desc":"兑换码及兑换方式同样会以短信及站内信发送给您（可在电脑端登录百度文库-个人中心-我的消息查看），请注意查收~","linkText":"去查看","link":"https://wenku.baidu.com/ndwelfare/browse/cornucopia?source=63"}]},"activity":{"actImg":"https://qn13.tool.lu/202005/24/151913rdYgDQ2kAe4XSces_280x150.png","leftNum":9345,"totalNum":10000,"consume":655,"startTime":1600616459,"endTime":1600963200},"channelId":"synpreparation","getGuideNaXpage":[{"guideNARefer":"1020999h","andriodRoute":"https://downpack.baidu.com/baiduwenku_AndroidPhone_1020999h.apk","codeImg":"https://edu-wenku.bdimg.com/v1/pc/sidebar_qr_code-1600926465061.png"}],"pcClientLandingPage":{"pcSwitch":true,"app":{"title":"百度文库 APP","back":"https://edu-wenku.bdimg.com/v1/pc/pcactivity/app-back.png","desc":"作业、做题辅导学习必备神器","tip":"月卡加赠7天","icon":"https://edu-wenku.bdimg.com/v1/na/0807/%E6%96%87%E5%BA%93APPicon-1603434254133.png","qrcodeAndroid":"https://edu-wenku.bdimg.com/v1/na/0807/%E6%96%87%E5%BA%93APP%20%E5%AE%89%E5%8D%93%E7%AB%AF-1602299474435.png","qrcodeIphone":"https://edu-wenku.bdimg.com/v1/na/0807/%E6%96%87%E5%BA%93APP%20iOS%E7%AB%AF-1602299504173.png","imgList":["https://edu-wenku.bdimg.com/v1/na/0807/%E5%AE%9E%E7%94%A8%E6%96%87%E6%A1%A3-1603258168544.png","https://edu-wenku.bdimg.com/v1/na/0807/%E4%B8%93%E4%B8%9A%E8%B5%84%E6%96%99-1603258274377.png","https://edu-wenku.bdimg.com/v1/na/0807/APP%E6%A0%BC%E5%BC%8F%E8%BD%AC%E6%8D%A2-1603434275434.png"]},"college":{"back":"https://edu-wenku.bdimg.com/v1/pc/pcactivity/college-back.png","title":"文库大学生版","desc":"大学生搜答案搜解析必备利器","tip":"购会员享时长优惠","icon":"https://edu-wenku.bdimg.com/v1/na/0807/%E6%8B%8D%E7%85%A7%E6%90%9C%E9%A2%98icon-1603434225463.png","qrcodeAndroid":"https://edu-wenku.bdimg.com/v1/na/0807/%E6%96%87%E5%BA%93%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%AE%89%E5%8D%93%E7%AB%AF-1602316540190.png","qrcodeIphone":"https://edu-wenku.bdimg.com/v1/na/0807/%E6%96%87%E5%BA%93%E5%A4%A7%E5%AD%A6%E7%94%9FiOS%E7%AB%AF-1602316512495.png","imgList":["https://edu-wenku.bdimg.com/v1/na/0807/%E7%9C%8B%E8%A7%A3%E6%9E%90-1603258193717.png","https://edu-wenku.bdimg.com/v1/na/0807/%E6%8B%8D%E7%85%A7-1603258296963.png","https://edu-wenku.bdimg.com/v1/na/0807/%E5%AD%A6%E4%B9%A0%E5%B7%A5%E5%85%B7-1603258390318.png"]},"mac":{"back":"https://edu-wenku.bdimg.com/v1/pc/pcactivity/pc-back.png","title":"文库Mac(Beta版)","desc":"轻松管理知识，助你高效工作、学习","tip":"最新版本V1.1.0","url":"https://edu-wenku.bdimg.com/v1/na/0807/PC%E5%AE%A2%E6%88%B7%E7%AB%AF%E7%89%88%E6%9C%AC%E5%8C%85/%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93MAC%E7%89%88-1.1.0.dmg","imgList":["https://edu-wenku.bdimg.com/v1/na/0807/%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86-1603258145504.png","https://edu-wenku.bdimg.com/v1/na/0807/%E5%85%AC%E5%BC%8F-1603258247848.png","https://edu-wenku.bdimg.com/v1/na/0807/PC-%E6%A0%BC%E5%BC%8F%E8%BD%AC%E6%8D%A2-1603258335349.png"]},"win":{"back":"https://edu-wenku.bdimg.com/v1/pc/pcactivity/pc-back.png","title":"文库Windows(Beta版)","desc":"轻松管理知识，助你高效工作、学习","tip":"最新版本V1.1.0","url":"https://edu-wenku.bdimg.com/v1/na/0807/PC%E5%AE%A2%E6%88%B7%E7%AB%AF%E7%89%88%E6%9C%AC%E5%8C%85/%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93WIN%E7%89%88-1.1.0.exe","imgList":["https://edu-wenku.bdimg.com/v1/na/0807/%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86-1603258145504.png","https://edu-wenku.bdimg.com/v1/na/0807/%E5%85%AC%E5%BC%8F-1603258247848.png","https://edu-wenku.bdimg.com/v1/na/0807/PC-%E6%A0%BC%E5%BC%8F%E8%BD%AC%E6%8D%A2-1603258335349.png"]},"pcGoClientBtnSwitch":true},"tplName":"xreader","player":"html_xreader","reader_type":"reader_html_xreader","title":"2020年1月浙江省生物考试说明 - 百度文库"};
+        window.pageData = pageData;
+        var docInfo2019 = pageData.docInfo2019;
+        var vipInfo = pageData.vipInfo;
+        var readerInfo2019 = pageData.readerInfo2019;
+        var viewControl = pageData.viewControl || {};
+        var wkSmallflow = pageData.wkSmallflow || {};
+        var priceInfo = pageData.docInfo2019.price_info || {};
+        var actInfo = priceInfo.act_info || {};
+        var actPrice = actInfo.act_price || 0;
+        var isPackageDoc = priceInfo.is_package;
+        var ispaied = +priceInfo.ispaied === 1;
+        var isVip = vipInfo.global_vip_status ? 1 : 0;
+        var isPackageDoc = priceInfo.is_package && !(priceInfo.is_discount_doc && isVip);
+        var mixVipAndUserInfo = pageData.mixVipAndUserInfo || {};
+        var userInfo = mixVipAndUserInfo.userInfo || {};
+        var shopVoucherInfo = priceInfo.shopVoucherInfo || {};
+        window.wkCommonLogParam = {
+            t1990: 1,
+            ssr: pageData.ssr,
+            v2020: 1,
+            doc_id: docInfo2019.doc_info.show_doc_id,
+            doc_title: docInfo2019.doc_info.title,
+            is_login: userInfo.isLogin ? 1 : 0,
+            is_vip: isVip,
+            page: 'view',
+            rebuild2019: 1,
+            sf_svip: 2111,
+            docValueType: +docInfo2019.doc_info.doc_type === 2,
+            // 积分 或 价格（分）
+            docPrizeOrTicket: +docInfo2019.price_info.doc_price,
+            player: pageData.player,
+            reader_type: pageData.reader_type,
+            // 以下点位本次改版新加
+            // 文档格式类型
+            type: docInfo2019.doc_info.type,
+            // 共享: 1, 付费: 2, vip专享: 3, 私有: 4
+            doc_type: docInfo2019.doc_info.doc_type,
+            // 共享文档-vip免费文档
+            is_vip_free_doc: +docInfo2019.doc_info.is_vip_free_doc,
+            // 支持全文看
+            can_read_all: +(+readerInfo2019.free_page === +readerInfo2019.page),
+            // 支持文档下载
+            is_downloadable: docInfo2019.price_info.is_downloadable || 0,
+            // 私密文档是否支持下载
+            secret_downloadable: docInfo2019.doc_info.is_downloadable || 0,
+            // 是否已经获取（购买）过
+            has_got: +docInfo2019.price_info.ispaied || 0,
+            // 打折文档
+            is_discount_doc: +docInfo2019.price_info.is_discount_doc || 0,
+            coupon_id: shopVoucherInfo.couponId,
+            coupon_drawed: shopVoucherInfo.isDraw ? 1 : 0,
+            wkTestId: wkSmallflow.testId || '',
+            wkTestData: wkSmallflow.testDataStr || '',
+            wkWeb2024: wkSmallflow.wkWeb2024 || 0
+        };
+    </script>
+    <script type="text/javascript" src="https://edu-wenku.bdimg.com/v1/pc/browserdata/browserdata-min.js"></script>
+    <script src="https://code.bdstatic.com/npm/spy-client@2.0.3/dist/spy-client-basic.min.js" type="text/javascript"></script>
+    <script type="text/javascript" src="https://edu-wenku.bdimg.com/v1/pc/protocolcheck/protocolcheck.js" defer></script>
+    <!-- built files will be auto injected -->
+</body>
+</html><script src="//wkstatic.bdimg.com/static/ndpcwenku/static/ndview/js/dll/vendors.21233fa8918b6c7629c5.dll.js"></script><script src="//wkstatic.bdimg.com/static/ndpcwenku/static/ndview/js/common/core.6261bf9d153e92057475.js"></script><script src="//wkstatic.bdimg.com/static/ndpcwenku/static/ndview/js/common/common.30fbf70fcad9680b77fc.js"></script><script src="//wkstatic.bdimg.com/static/ndpcwenku/static/ndview/js/views/xreader.b0309ddc9ae6779d1c33.js"></script>
